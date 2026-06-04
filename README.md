@@ -262,7 +262,7 @@ B.Tech Computer Science & Engineering (Data Science)
 
 GitHub: https://github.com/yaswanthjada1
 
-Portfolio: https://yaswanthpersonalportfolio.netlify.app/
+Portfolio: https://portfolioyaswanth-jada.netlify.app/
 
 LinkedIn: https://linkedin.com/in/yaswanth-jada
 
